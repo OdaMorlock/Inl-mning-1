@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Temeprature": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
