@@ -19,6 +19,7 @@ namespace Temperature
 
 
 
+
         public Worker(ILogger<Worker> logger)
         {
             _logger = logger;
